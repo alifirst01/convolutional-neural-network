@@ -7,7 +7,7 @@ Validation set consists of 10000 images
 Test set consists of 18724 images  
 
 ### Model
-Four different models of CNN are used. Each consisting of different set of layers and learning rate value
+Four different models of CNN are used. Each consisting of different set of layers and learning rate value  
 - Model1 consists of 1 convolutional layer and 2 fully connected layers. The learning rate is E-03
 - Model2 consists of 2 convolutional layer and 2 fully connected layers. The learning rate is E-03
 - Model3 consists of 1 convolutional layer and 2 fully connected layers. The learning rate is E-04
